@@ -3,7 +3,7 @@
 <div> <img align="right" alt="brenna" height="300" src="https://cdn.picrew.me/shareImg/org/202303/1524872_KRF9hZBq.png" />
 </div>
 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lionofheart/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenna.css/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brennaabreu/)
 [![CODEPEN](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Brenna-Abreu)
 
